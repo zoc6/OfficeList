@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Office": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\\\Users\\\\Mind\\\\Documents\\\\Visual Studio 2017\\\\Projects\\\\Office\\\\Office\\\\bin\\\\Debug\\\\netcoreapp2.1\\\\Preisliste\\\\Input.txt\""
+    }
+  }
+}

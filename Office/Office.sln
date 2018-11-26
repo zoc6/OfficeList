@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Office", "Office\Office.csproj", "{2373060F-262B-485A-95D4-E496A18E177C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Office.BL", "Office.BL\Office.BL.csproj", "{630B8787-92AA-4CFB-B106-D7A4724F57E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2373060F-262B-485A-95D4-E496A18E177C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2373060F-262B-485A-95D4-E496A18E177C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2373060F-262B-485A-95D4-E496A18E177C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2373060F-262B-485A-95D4-E496A18E177C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{630B8787-92AA-4CFB-B106-D7A4724F57E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{630B8787-92AA-4CFB-B106-D7A4724F57E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{630B8787-92AA-4CFB-B106-D7A4724F57E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{630B8787-92AA-4CFB-B106-D7A4724F57E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC577466-04F0-4C3F-9067-522F32AE83F4}
+	EndGlobalSection
+EndGlobal

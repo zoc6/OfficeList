@@ -1,0 +1,14 @@
+C:\Users\Mind\Documents\Visual Studio 2017\Projects\Office\Office\bin\Debug\netcoreapp2.1\Office.deps.json
+C:\Users\Mind\Documents\Visual Studio 2017\Projects\Office\Office\bin\Debug\netcoreapp2.1\Office.runtimeconfig.json
+C:\Users\Mind\Documents\Visual Studio 2017\Projects\Office\Office\bin\Debug\netcoreapp2.1\Office.runtimeconfig.dev.json
+C:\Users\Mind\Documents\Visual Studio 2017\Projects\Office\Office\bin\Debug\netcoreapp2.1\Office.dll
+C:\Users\Mind\Documents\Visual Studio 2017\Projects\Office\Office\bin\Debug\netcoreapp2.1\Office.pdb
+C:\Users\Mind\Documents\Visual Studio 2017\Projects\Office\Office\obj\Debug\netcoreapp2.1\Office.csproj.CoreCompileInputs.cache
+C:\Users\Mind\Documents\Visual Studio 2017\Projects\Office\Office\obj\Debug\netcoreapp2.1\Office.AssemblyInfoInputs.cache
+C:\Users\Mind\Documents\Visual Studio 2017\Projects\Office\Office\obj\Debug\netcoreapp2.1\Office.AssemblyInfo.cs
+C:\Users\Mind\Documents\Visual Studio 2017\Projects\Office\Office\obj\Debug\netcoreapp2.1\Office.dll
+C:\Users\Mind\Documents\Visual Studio 2017\Projects\Office\Office\obj\Debug\netcoreapp2.1\Office.pdb
+C:\Users\Mind\Documents\Visual Studio 2017\Projects\Office\Office\bin\Debug\netcoreapp2.1\Office.BL.dll
+C:\Users\Mind\Documents\Visual Studio 2017\Projects\Office\Office\bin\Debug\netcoreapp2.1\Office.BL.pdb
+C:\Users\Mind\Documents\Visual Studio 2017\Projects\Office\Office\obj\Debug\netcoreapp2.1\Office.csprojAssemblyReference.cache
+C:\Users\Mind\Documents\Visual Studio 2017\Projects\Office\Office\obj\Debug\netcoreapp2.1\Office.csproj.CopyComplete
