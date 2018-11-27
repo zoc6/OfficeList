@@ -28,16 +28,19 @@ namespace Office
             }
             catch (ArgumentException ex)
             {
-                string message = $"Invalid argument exception. {ex.Message}";
+                string message = $"Argument exception. {ex.Message}";
                 Console.WriteLine(message);
+            }
+            catch (InvalidDataException ex)
+            {
+              string message = $"Invalid data exception. {ex.Message}";
+              Console.WriteLine(message);
             }
             catch (Exception ex)
             {
                 string message = $"An excepction occured. {ex.Message}";
                 Console.WriteLine(message);
-            }
-
-            Console.WriteLine("Hello World!");
+            }           
         }
     }
 }

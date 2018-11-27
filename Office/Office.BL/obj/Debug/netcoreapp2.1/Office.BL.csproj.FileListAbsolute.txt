@@ -6,3 +6,4 @@ C:\Users\Mind\Documents\Visual Studio 2017\Projects\Office\Office.BL\obj\Debug\n
 C:\Users\Mind\Documents\Visual Studio 2017\Projects\Office\Office.BL\obj\Debug\netcoreapp2.1\Office.BL.AssemblyInfo.cs
 C:\Users\Mind\Documents\Visual Studio 2017\Projects\Office\Office.BL\obj\Debug\netcoreapp2.1\Office.BL.dll
 C:\Users\Mind\Documents\Visual Studio 2017\Projects\Office\Office.BL\obj\Debug\netcoreapp2.1\Office.BL.pdb
+C:\Users\Mind\Documents\Visual Studio 2017\Projects\Office\Office.BL\obj\Debug\netcoreapp2.1\Office.BL.csprojAssemblyReference.cache
